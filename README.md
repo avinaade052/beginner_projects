@@ -1,4 +1,4 @@
-# Beginner_Projects
+# beginner_Projects
 In this i've added all the basic learinigs that i have gained in my first semester of engineering .
 They are as followed :
 1. Python pgl(programming language)
