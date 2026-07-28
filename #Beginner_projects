@@ -1,6 +1,6 @@
 #Beginner_projects:
-
 #Codes
+
 students = []
 
 def add_student():
